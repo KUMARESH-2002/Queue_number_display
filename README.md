@@ -28,5 +28,12 @@ In service areas like bank counters, clinics, or help desks, this device can be 
    
 3. **Power Up:**
    - Power the Arduino, and the display will show the queue number, incrementing with each tap on the sensor.
+  
+
+## Circuit Diagram
+
+
+![Circuit Diagram](https://github.com/user-attachments/assets/a88b590e-e34c-4823-989d-724ea5d08f95)
+
 
 
