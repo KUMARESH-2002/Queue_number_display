@@ -30,7 +30,7 @@ In service areas like bank counters, clinics, or help desks, this device can be 
    - Power the Arduino, and the display will show the queue number, incrementing with each tap on the sensor.
   
 
-## Circuit Diagram
+## 7 Segment Display Connections
 
 
 ![Circuit Diagram](https://github.com/user-attachments/assets/a88b590e-e34c-4823-989d-724ea5d08f95)
