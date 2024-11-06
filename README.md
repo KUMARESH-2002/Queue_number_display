@@ -1,6 +1,14 @@
 # Queue_number_display
 In service areas like bank counters, clinics, or help desks, this device can be used to display the next queue number. Staff or visitors can tap the sensor to increment the queue number shown on the display, simplifying the process and ensuring that customers know when it’s their turn.
 
+## Table of Contents
+
+- [Features](#features)
+- [Components](#components)
+- [How It Works](#how-it-works)
+- [Setup](#setup)
+- [Display Connections](#display-connections)
+
 ## Features
 - Displays an incremented queue number on a display.
 - Touch sensor input to increment the queue number.
@@ -30,7 +38,7 @@ In service areas like bank counters, clinics, or help desks, this device can be 
    - Power the Arduino, and the display will show the queue number, incrementing with each tap on the sensor.
   
 
-## 7 Segment Display Connections
+## Display Connections
 
 
 ![Circuit Diagram](https://github.com/user-attachments/assets/a88b590e-e34c-4823-989d-724ea5d08f95)
